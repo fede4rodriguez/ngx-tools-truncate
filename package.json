@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "buld:lib": "ng-packagr -p projets/ngx-tools-truncate/ng-package.json; cp README.md dist/ngx-tools-truncate/README.md"
   },
   "private": true,
   "dependencies": {
