@@ -1,8 +1,9 @@
-import { TruncateModule } from 'projects/ngx-tools-truncate/src/lib/truncate.module';
+
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
 import { AppComponent } from './app.component';
+
+import { TruncateModule } from '@ngx-tools/truncate';
 
 @NgModule({
   declarations: [

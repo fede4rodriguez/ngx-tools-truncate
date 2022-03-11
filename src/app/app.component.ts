@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { TruncateService } from 'projects/ngx-tools-truncate/src/public-api';
+import { TruncateService } from '@ngx-tools/truncate';
 
 @Component({
   selector: 'app-root',

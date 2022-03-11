@@ -12,7 +12,7 @@
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "paths": {
-      "ngx-tools-truncate": [
+      "@ngx-tools/truncate": [
         "dist/ngx-tools-truncate/ngx-tools-truncate",
         "dist/ngx-tools-truncate"
       ]
