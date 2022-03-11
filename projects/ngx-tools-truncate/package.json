@@ -1,6 +1,21 @@
 {
-  "name": "ngx-tools-truncate",
+  "name": "@ngx-tools/truncate",
   "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fede4rodriguez/ngx-tools-truncate"
+  },
+  "author": {
+    "name": "Fede Rodriguez",
+    "email": "fede4rodriguez@outlook.com"
+  },
+  "keywords": [
+    "angular",
+    "ng",
+    "truncate",
+    "strings"
+  ],
   "peerDependencies": {
     "@angular/common": "^13.2.0",
     "@angular/core": "^13.2.0"
